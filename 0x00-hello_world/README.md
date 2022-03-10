@@ -5,3 +5,5 @@
 #4. How to use puts
 #5. A program to print proper grammar
 #6. Writing a C program that prints the size of various types
+#7. Generating the assembly code of a C code
+#8. Print without using printf and or puts
