@@ -4,3 +4,4 @@
 #3. Printing letters in lowercase and upper case
 #4. Printing all the letters except q and e
 #5. Writing a program that prints all single digit numbers
+#6. Printing out numbers without using char
