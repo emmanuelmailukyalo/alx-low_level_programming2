@@ -8,3 +8,4 @@
 #7. Write a program that prints the lowercase alphabet
 #8. Writing a program that prints all the numbers of base 16
 #9. Printing all possible combinations of two digit numbers
+#10. Printing all possible combinations of three numbers
