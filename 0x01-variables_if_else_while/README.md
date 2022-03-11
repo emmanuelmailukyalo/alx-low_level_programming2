@@ -9,3 +9,5 @@
 #8. Writing a program that prints all the numbers of base 16
 #9. Printing all possible combinations of two digit numbers
 #10. Printing all possible combinations of three numbers
+#11. Pringing all possible combinations of three digits
+#12. Printing all combinations of two two digit numbers
