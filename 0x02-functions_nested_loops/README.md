@@ -14,3 +14,4 @@
 #13. Writing down natural numbers
 #14. Writing a program that prints fibonacci
 #15. Fibonacci sequence not exceeding 4,000,000
+#16. Print the first 98 Fibonacci
