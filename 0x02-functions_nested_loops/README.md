@@ -2,3 +2,4 @@
 #1. Writing a function that prints the alphabet in lowercase
 #2. Writing a function that prints 10 times the alphabet
 #3. A function that checks for lower case
+#4. Returns 1 if the letter is uppercase or lowercase
