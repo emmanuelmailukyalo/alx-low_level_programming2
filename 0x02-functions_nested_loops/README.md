@@ -5,3 +5,4 @@
 #4. Returns 1 if the letter is uppercase or lowercase
 #5. Prints out the sign of a number
 #6. Prints out the absolute value of numbers
+#7. Print out the last digit of a number
