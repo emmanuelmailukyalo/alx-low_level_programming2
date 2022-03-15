@@ -8,3 +8,4 @@
 #7. Print out the last digit of a number
 #8. Print out every minute of the day
 #9. Print the 9 times table
+#10. Add two integers and return the result
