@@ -7,3 +7,4 @@
 #6. Prints out the absolute value of numbers
 #7. Print out the last digit of a number
 #8. Print out every minute of the day
+#9. Print the 9 times table
