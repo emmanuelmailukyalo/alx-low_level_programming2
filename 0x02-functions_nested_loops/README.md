@@ -10,3 +10,4 @@
 #9. Print the 9 times table
 #10. Add two integers and return the result
 #11. Print natural numbers from n to 98
+#12. Writing a function that prints the n times table
