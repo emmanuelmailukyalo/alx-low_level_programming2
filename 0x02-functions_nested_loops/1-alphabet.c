@@ -1,20 +1,15 @@
-#include <unistd.h>
 #include "main.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * print_alphabet - Check description
+ * Description: It prints the alphabet in lowercase fallowed by a new line
+ * Return: Nothing.
  */
-
-int main(void)
+void print_alphabet(void)
 {
-	int x;
+	char i;
 
-	for (x = 'a'; x <= 'z'; x++)
-	{
-		_putchar(x);
-	}
+	for (i = 'a'; i <= 'z'; i++)
+		_putchar(i);
 	_putchar('\n');
-	return (0);
 }
