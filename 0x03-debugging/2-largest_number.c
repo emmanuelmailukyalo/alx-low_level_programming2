@@ -10,19 +10,23 @@ int largest_number(int a, int b, int c)
 {
 	int largest;
 
-	if (a > b && b > c)
+	if (a > b)
 	{
-		largest = a;
-		printf("%d", a);
+		if (a > c)
+		{
+			printf("d", a);
+		}
+		else
+		{
+			printf("%d", c);
+		}
 	}
-	else if (b > a && a > c)
+	else if (b > c)
 	{
-		largest = b;
 		printf("%d". b);
 	}
 	else
 	{
-		largest = c;
 		printf("%d", c)
 	}
 
