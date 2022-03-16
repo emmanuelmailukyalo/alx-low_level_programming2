@@ -10,24 +10,17 @@ int largest_number(int a, int b, int c)
 {
 	int largest;
 
-	if (a > b)
+	if (a >= b && a >= c)
 	{
-		if (a > c)
-		{
-			printf("d", a);
-		}
-		else
-		{
-			printf("%d", c);
-		}
+		largest = a;
 	}
-	else if (b > c)
+	else if (b >= a && b >= c)
 	{
-		printf("%d". b);
+		largest = b;
 	}
-	else
+	else if (c >= a && c >= b)
 	{
-		printf("%d", c)
+		largest = c;
 	}
 
 	return (largest);
