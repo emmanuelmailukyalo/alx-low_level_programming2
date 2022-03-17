@@ -7,3 +7,4 @@
 #6. Draw a straight line in the terminal
 #7. Draw a diagonal line
 #8. Printing a square followed by a new line
+#9. Printing FizzBuzz
