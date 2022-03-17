@@ -9,3 +9,4 @@
 #8. Printing a square followed by a new line
 #9. Printing FizzBuzz
 #10. Printing out a triangle
+#11. Finding prime numbers
