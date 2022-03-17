@@ -8,3 +8,4 @@
 #7. Draw a diagonal line
 #8. Printing a square followed by a new line
 #9. Printing FizzBuzz
+#10. Printing out a triangle
