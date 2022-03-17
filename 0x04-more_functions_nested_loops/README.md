@@ -10,3 +10,4 @@
 #9. Printing FizzBuzz
 #10. Printing out a triangle
 #11. Finding prime numbers
+#12. Printing an integer
