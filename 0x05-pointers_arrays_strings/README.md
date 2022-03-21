@@ -6,3 +6,4 @@
 #5. A function that reverses a string
 #6. Printing letters while skipping
 #7. Print half of the string
+#8. Print elements of an array
