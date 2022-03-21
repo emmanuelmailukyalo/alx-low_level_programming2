@@ -8,3 +8,4 @@
 #7. Print half of the string
 #8. Print elements of an array
 #9. Copies string pointed by src
+#10. Convert a string to integer
