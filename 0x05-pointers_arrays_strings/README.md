@@ -9,3 +9,4 @@
 #8. Print elements of an array
 #9. Copies string pointed by src
 #10. Convert a string to integer
+#11. Generate random valid passwords
