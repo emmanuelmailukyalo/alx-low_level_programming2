@@ -7,3 +7,4 @@
 #6. Printing letters while skipping
 #7. Print half of the string
 #8. Print elements of an array
+#9. Copies string pointed by src
