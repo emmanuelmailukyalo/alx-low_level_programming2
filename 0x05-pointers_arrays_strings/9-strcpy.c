@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  * _strcpy - makes a copy of a string
  * @dest: address of buffer to copy string to
