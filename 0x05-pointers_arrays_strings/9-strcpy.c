@@ -1,18 +1,6 @@
-/**
- * _strcpy - makes a copy of a string
- * @dest: address of buffer to copy string to
- * @src: address of string to be copied
- *
- * Return: the pointer to dest
- */
-char *_strcpy(char *dest, char *src)
-{
-	do {
-		*dest++ = *src++;
-	} while (*src);
+#include "main.h"
+#include <stdio.h>
 
-	return (dest);
-}
 /**
  * _strcpy - a function that copies the string pointed to by src,
  * including the terminating null byte (\0),
