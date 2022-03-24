@@ -8,3 +8,4 @@
 #7. Encode string
 #8. Encode rot13
 #9. Print an integer
+#10. Magic file
