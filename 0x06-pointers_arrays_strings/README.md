@@ -6,3 +6,4 @@
 #5. String to upper
 #6. Capitalize all words
 #7. Encode string
+#8. Encode rot13
