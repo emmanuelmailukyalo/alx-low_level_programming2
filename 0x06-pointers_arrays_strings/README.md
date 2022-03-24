@@ -5,3 +5,4 @@
 #4. Reverse contents of an array
 #5. String to upper
 #6. Capitalize all words
+#7. Encode string
