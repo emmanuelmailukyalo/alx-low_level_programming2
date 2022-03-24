@@ -10,3 +10,4 @@
 #9. Print an integer
 #10. Magic file
 #11. Infinite add
+#12. Printing a buffer
