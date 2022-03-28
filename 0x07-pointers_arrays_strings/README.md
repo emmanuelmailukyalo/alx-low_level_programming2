@@ -7,3 +7,4 @@
 #6. Function that prints chessboard
 #7. Function that prints sum of two diagonals
 #8. Sets value of a pointer to a char
+#9. File that contains password
