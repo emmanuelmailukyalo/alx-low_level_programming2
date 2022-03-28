@@ -4,3 +4,4 @@
 #3. Get length of a prefix
 #4. Searches for a string
 #5. Locate a substring
+#6. Function that prints chessboard
