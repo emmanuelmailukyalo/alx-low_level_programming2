@@ -2,3 +2,4 @@
 #1. Function to copy area of memory
 #2. Locate a character in a string
 #3. Get length of a prefix
+#4. Searches for a string
