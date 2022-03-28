@@ -6,3 +6,4 @@
 #5. Locate a substring
 #6. Function that prints chessboard
 #7. Function that prints sum of two diagonals
+#8. Sets value of a pointer to a char
